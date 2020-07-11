@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm a full stack javascript developer and I love learning and trying out new things. <br />
+🌱 I’m currently learning the Dart programming language, obviuosly for Flutter dev <br />
+💬 Ask me about anything JavaScript...❤ <br />
+📫 How to reach me: https://portfolio.codemaniac.net <br />
+⚡ Fun fact: I have a crush on Electron! 
 <!--
 **mickela/mickela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
