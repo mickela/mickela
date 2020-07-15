@@ -1,11 +1,11 @@
 ### Hi there 👋
-I'm a full stack javascript developer and I love learning and trying out new things. <br />
-🌱 I’m currently learning Dart|Flutter for mobile dev <br />
+I'm a full stack JavaScript developer and I love learning and trying out new things. <br />
+🌱 I’m currently hanging out with Dart|Flutter <br />
 💬 Ask me about anything JavaScript...❤ <br />
 📫 How to reach me: https://portfolio.codemaniac.net <br />
 ⚡ Fun fact: I have a crush on Electron! <br />
 
-![Avatar](https://www.codemaniac.net/download.png)
+![Avatar](https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif)
 
 <!--
 **mickela/mickela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
