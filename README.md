@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm a AI geek who loves learning and trying out new things. <br />
-🔭 I’m currently building an open-source community with my buddies @hubswitch <br />
+🔭 I’m currently building an open-source community with my buddies <a href="https://github.com/hubswitch-africa">@hubswitch</a> <br />
 🌱 I often hang out with PHP|Laravel <br />
 💬 Ask me about anything JavaScript...❤ <br />
 📫 How to reach me: https://mickela.github.io/ <br />
