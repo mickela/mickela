@@ -1,5 +1,6 @@
 ### Hi there 👋
-I'm a full stack JavaScript developer and I love learning and trying out new things. <br />
+I'm a AI geek and I love learning and trying out new things. <br />
+🔭 I’m currently building an open-source community with my buddies @hubswitch <br />
 🌱 I often hang out with PHP|Laravel <br />
 💬 Ask me about anything JavaScript...❤ <br />
 📫 How to reach me: https://mickela.github.io/ <br />
