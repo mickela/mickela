@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a AI geek who loves learning and trying out new things. <br />
 🔭 I’m currently building an open-source community with my buddies <a href="https://github.com/hubswitch-africa">@hubswitch</a> <br />
-🌱 I often hang out with PHP|Laravel <br />
+🌱 I often hang out with PHP|Laravel|ReactNative <br />
 💬 Ask me about anything JavaScript...❤ <br />
 📫 How to reach me: https://mickela.github.io/ <br />
 ⚡ Fun fact: I have a crush on Electron, all things Metaverse and Web 3.0! <br />
