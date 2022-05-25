@@ -8,6 +8,7 @@ This dude is an AI geek who loves learning and trying out new things. <br />
 
 ![Avatar](https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif)
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mickela&theme=radical"/>
 
 <!--
 **mickela/mickela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
