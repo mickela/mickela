@@ -8,12 +8,13 @@ This dude is an AI geek who loves learning and trying out new things. <br />
 📫 How to reach me: https://mickela.github.io/ <br />
 ⚡ Fun fact: I have a crush on Electron, all things Metaverse and Web 3.0! <br />
 
-  <img src="https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif" />
 
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: row;margin-bottom: 10px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mickela&theme=radical"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=mickela&column=4&margin-w=7&margin-h=7&theme=radical" />
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif" />
 </div>
+<img src="https://github-profile-trophy.vercel.app/?username=mickela&column=4&margin-w=7&margin-h=7&theme=radical" />
   
 
 <!--
